@@ -1,0 +1,4 @@
+Sample1	count
+Gene_1	232
+Gene_3	322
+Gene_4	311
